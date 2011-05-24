@@ -4,7 +4,7 @@ Symfony2 Documentation
 Quick Tour
 ----------
 
-Get started fast with the Symfony2 :doc:`Quick Tour <quick_tour/index>`:
+Get hola started fast with the Symfony2 :doc:`Quick Tour <quick_tour/index>`:
 
 .. toctree::
     :hidden:
